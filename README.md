@@ -27,7 +27,6 @@ Passionate about building modern, responsive and scalable web applications using
 
 # 👨‍💻 About Me
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAJAHAT-ANSARI2&layout=compact&theme=github_dark&hide_border=true"/>
 
 - 💻 Full Stack Web Developer
 - ⚛️ Frontend Development with **React.js**
